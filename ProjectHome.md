@@ -1,0 +1,1 @@
+Containing the aaulan website, as well as images and other related stuff
